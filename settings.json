@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "cococane1234.aternos.me:13172",
+    "port": 13172,
     "version": "1.19.3"
   },
 
